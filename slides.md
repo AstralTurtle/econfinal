@@ -4,7 +4,7 @@ theme: "your-theme"
 class: invert
 transition: fade
 ---
-<!-- npx @marp-team/marp-cli@latest slides.md --html -w  -o index.html --theme theme.css -->
+<!-- npx @marp-team/marp-cli@latest slides.md --html -o index.html --theme theme.css -->
 
 
 # Economics in the Game Industry
@@ -62,6 +62,10 @@ Due to this, Early Access is mainly used by smaller indie studios with less reso
 ---
 # Cost
 
+![bg right](money.jpeg)
+
+
+
 There are many costs associated with game development but it isn't much different then other forms of media.
 - Assets (Art and Music)
 - Labor (Dev Team, PR, Directors, etc.)
@@ -75,5 +79,10 @@ There are many costs associated with game development but it isn't much differen
 
 Scope includes all of the design for your game. Scoping includes
 - The core gameplay loop
-- 
-- 
+- Other gameplay modifiers
+- Aquiring Assets
+- Packaging and Publishing
+---
+
+# Thank you
+- the guy that studies making games 
