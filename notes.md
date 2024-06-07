@@ -15,6 +15,7 @@ Game delays are used when issues crop up in the end portions of development. The
 
 Delays aren't fully bad though. As this quote from Shigeru Miyamoto, the creator of mario says, an unfinished game is worse then a delayed game.
 
+(play till 2:20)
 
 ---
 # Early Access
